@@ -4,6 +4,15 @@ An experienced Data Analyst and Software Engineer retraining through **Code Your
 
 ---
 
+## 📫 Reach Me at
+
+- **Email:** shabankary@gmail.com 
+- **LinkedIn:** https://www.linkedin.com/in/sheida-shabankari/  
+- **Portfolio:** https://github.com/sheida-shab
+- **Codewars:** https://www.codewars.com/users/sheida-shab
+
+---
+
 ## 🛠 Skills
 
 - **Languages:** Python, SQL, JavaScript, Delphi  
@@ -30,12 +39,6 @@ An experienced Data Analyst and Software Engineer retraining through **Code Your
 
 ---
 
-## 📫 Contact Me
 
-- **Email:** shabankary@gmail.com 
-- **LinkedIn:** https://www.linkedin.com/in/sheida-shabankari/  
-- **Portfolio:** https://github.com/sheida-shab
-
----
 
 > ⚡ I’m passionate about building reliable, high-performance systems and applying my data and software skills to real-world problems.
