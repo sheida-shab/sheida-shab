@@ -15,16 +15,18 @@ An experienced Data Analyst and Software Engineer retraining through **Code Your
 
 ## 💼 Experience Highlights
 
-- **Software & Data Projects:** Developed desktop applications for insurance systems; designed large-scale operational databases; automated manual workflows.  
-- **Volunteer Work:** Maintained multi-million record databases, improved accuracy, and implemented dashboards & automation.
+- **Software:** Developed desktop applications for insurance systems;
+- **Data Projects:** Designed and mintained multi-million record  operational databases ; .  
+- **Volunteer Work:** automated manual workflows , improved accuracy, and implemented dashboards & automation.
 
 ---
 
 ## 📂 Projects
 
-- [Insurance Database Automation](#) – Built Airtable database with dashboards and automated workflows.  
-- [ETL & Reporting Pipelines](#) – Cleaned and structured large-scale datasets to support business insights.  
-- [Personal Python Projects](#) – Algorithms, data analysis, and web scraping projects for skill practice.
+- https://github.com/sheida-shab/Simple-Chat-Application-v2.git
+- https://github.com/sheida-shab/Days-calendar-project.git
+- https://github.com/sheida-shab/insurance-loss-ratio-sql.git  
+- https://github.com/sheida-shab/Project-TV-Show.git
 
 ---
 
