@@ -32,6 +32,7 @@ An experienced Data Analyst and Software Engineer retraining through **Code Your
 
 ## 📂 Projects
 
+- https://github.com/sheida-shab/cv-statement-detective.git
 - https://github.com/sheida-shab/Simple-Chat-Application-v2.git
 - https://github.com/sheida-shab/Days-calendar-project.git
 - https://github.com/sheida-shab/insurance-loss-ratio-sql.git  
