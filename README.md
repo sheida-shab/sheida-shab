@@ -16,7 +16,7 @@ An experienced Data Analyst and Software Engineer retraining through **Code Your
 ## 🛠 Skills
 
 - **Languages:** Python, SQL, JavaScript, Delphi  
-- **Data & Tools:** ETL, KPIs, Reporting, Excel, Airtable  
+- **Data & Tools:** SQL server, Oracle, ETL, KPIs, Reporting, Excel, Airtable  
 - **Software Engineering:** Git, GitHub, Unix/Linux, CS fundamentals  
 - **Other:** Data cleaning, automation, process optimisation
 
